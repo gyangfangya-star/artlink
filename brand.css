@@ -1,0 +1,2 @@
+.languageToggle{display:inline-flex!important;border:1px solid var(--line);background:transparent;padding:8px 11px;align-items:center;justify-content:center;min-width:42px;cursor:pointer;font-size:9px;letter-spacing:.08em}.languageToggle:hover{background:var(--ink);color:var(--paper)}
+html[lang="zh-CN"]{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}html[lang="zh-CN"] .heroWords h1,html[lang="zh-CN"] .museumBanner h1,html[lang="zh-CN"] .portalCards h2,html[lang="zh-CN"] .quote em{font-family:"Songti SC",STSong,serif}

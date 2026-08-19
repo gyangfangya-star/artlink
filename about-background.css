@@ -1,0 +1,5 @@
+/* About page: retain the home page's sculpture atmosphere without reducing readability. */
+.aboutBanner{background-image:linear-gradient(90deg,rgba(250,248,244,.93) 0%,rgba(248,245,239,.84) 43%,rgba(242,238,230,.30) 100%),url('assets/hero-sculpture.png');background-position:center,center 52%;background-size:cover,cover}
+.aboutBanner:before{opacity:.28}
+.aboutBanner h1,.aboutBanner p,.aboutBanner .crumb{position:relative;text-shadow:0 1px 16px rgba(255,255,255,.62)}
+@media(max-width:760px){.aboutBanner{background-position:center,62% center}}

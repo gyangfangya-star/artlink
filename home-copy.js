@@ -1,0 +1,1 @@
+(()=>{function setHeroCopy(){const title=document.querySelector('.homeHero .heroWords h1');if(!title)return;title.textContent=localStorage.getItem('artlink-language')==='en'?'Connect art with humanities':'让艺术与人文相连';}addEventListener('hashchange',()=>setTimeout(setHeroCopy,30));setHeroCopy()})();
